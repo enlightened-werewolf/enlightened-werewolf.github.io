@@ -8,9 +8,9 @@ Hace falta un mínimo de 5 jugadores, para iniciar la partida enviar el comando 
 
 ## EQUIPO DE LA ALDEA:
 
-### Justiciero :gun:
+### :gun: Justiciero
 Tienes dos balas. Durante el día puedes elegir disparar a otro jugador.
 
-### Cupido 🏹 
+### 🏹 Cupido
 Debes elegir a dos jugadores que se amarán por la eternidad. Si uno muere, el otro morirá de pena.
 
