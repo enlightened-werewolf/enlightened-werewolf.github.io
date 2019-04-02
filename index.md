@@ -241,6 +241,6 @@ Como cultista, tu objetivo es convertir a todos los demás jugadores (excepto a 
 ### Titiritero  🕴
 Eres el titiritero. Eres un maestro en manipular y engañar a otras personas. Cada noche, puedes usar tus poderes para hacer que una persona (u equipo) haga lo que tú quieras, hasta ser la última persona viva.
 
-### Doppelgänger - elDoble :performing_arts:
+### Doppelgänger - El Doble :performing_arts:
 
 ### Asesina en serie :hocho:
