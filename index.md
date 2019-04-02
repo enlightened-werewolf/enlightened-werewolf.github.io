@@ -131,3 +131,59 @@ Por ahora eres un aldeano, pero una vez que el resto de los hombres lobo muera, 
 
 ### Maldito :pouting_cat: 
 Por el momento eres un aldeano, pero si los hombres lobo te matan, en lugar de morir te convertirás en uno de ellos.
+
+
+----
+
+### Villager roles:
+/aboutVG - Villager :person_with_blond_hair:
+/aboutDrunk - Drunk :beers:
+/aboutSeer - Seer :man_with_turban:
+/aboutHarlot - Harlot :kiss:
+/aboutBH - Beholder 👁
+/aboutGunner - Gunner :gun:
+/aboutGA - Guardian Angel :angel:
+/aboutFool - Fool :black_joker:
+/aboutMason - Mason :construction_worker:
+/aboutDetective - Detective 🕵
+/aboutAppS - Apprentice Seer :bow:
+/aboutCH - Cultist Hunter :guardsman:
+/aboutCupid - Cupid 🏹
+/aboutHunter - Hunter :dart:
+/aboutClumsy - ClumsyGuy 🤕
+/aboutBlacksmith - Blacksmith ⚒
+/aboutPrince - Prince :ring:
+/aboutMayor - Mayor 🎖
+/aboutOracle - Oracle :cyclone:
+/aboutMonarch - Monarch :crown:
+/aboutPacifist - Pacifist ☮
+/aboutWiseElder - Wise Elder :books:
+/aboutSandman - Sandman :zzz:
+/aboutWolfMan - Wolf Man :person_with_blond_hair::new_moon_with_face:
+/aboutMartyr - Martyr :beginner:
+/aboutAlchemist - Alchemist :tea:
+/aboutSquire - Squire 🛡/aboutBeauty - Beauty :nail_care:
+
+### Roles that might become werewolf:
+/aboutTraitor - Traitor 🖕
+/aboutWC - Wild Child :baby:
+/aboutCursed - Cursed :pouting_cat:
+
+### Wolves and allies:
+/aboutWW - Werewolf :wolf:
+/aboutSorcerer - Sorcerer :crystal_ball:
+/aboutAlphaWolf - AlphaWolf :zap:
+/aboutWolfCub - WolfCub :dog:
+/aboutLycan - Lycan :wolf::full_moon_with_face:
+/aboutProwler - Prowler 🦉
+/aboutMystic - Mystic ☄
+/aboutTrickster - Trickster :sheep:
+
+### Other enemies and roles:
+/aboutTanner - Tanner :japanese_goblin:
+/aboutCult - Cultist :bust_in_silhouette:
+/aboutThief - Thief :smiling_imp:
+/aboutPuppetMaster - Puppet Master 🕴
+/aboutDG - Doppelgänger :performing_arts:
+/aboutSK - Serial Killer :hocho:
+
