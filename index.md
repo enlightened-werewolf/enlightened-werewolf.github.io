@@ -135,55 +135,114 @@ Por el momento eres un aldeano, pero si los hombres lobo te matan, en lugar de m
 
 ----
 
-### Villager roles:
-/aboutVG - Villager :person_with_blond_hair:
-/aboutDrunk - Drunk :beers:
-/aboutSeer - Seer :man_with_turban:
-/aboutHarlot - Harlot :kiss:
-/aboutBH - Beholder 👁
-/aboutGunner - Gunner :gun:
-/aboutGA - Guardian Angel :angel:
-/aboutFool - Fool :black_joker:
-/aboutMason - Mason :construction_worker:
-/aboutDetective - Detective 🕵
-/aboutAppS - Apprentice Seer :bow:
-/aboutCH - Cultist Hunter :guardsman:
-/aboutCupid - Cupid 🏹
-/aboutHunter - Hunter :dart:
-/aboutClumsy - ClumsyGuy 🤕
-/aboutBlacksmith - Blacksmith ⚒
-/aboutPrince - Prince :ring:
-/aboutMayor - Mayor 🎖
-/aboutOracle - Oracle :cyclone:
-/aboutMonarch - Monarch :crown:
-/aboutPacifist - Pacifist ☮
-/aboutWiseElder - Wise Elder :books:
-/aboutSandman - Sandman :zzz:
-/aboutWolfMan - Wolf Man :person_with_blond_hair::new_moon_with_face:
-/aboutMartyr - Martyr :beginner:
-/aboutAlchemist - Alchemist :tea:
-/aboutSquire - Squire 🛡/aboutBeauty - Beauty :nail_care:
+## EQUIPO DE LA ALDEA:
 
-### Roles that might become werewolf:
-/aboutTraitor - Traitor 🖕
-/aboutWC - Wild Child :baby:
-/aboutCursed - Cursed :pouting_cat:
+### Aldeano :person_with_blond_hair:
 
-### Wolves and allies:
-/aboutWW - Werewolf :wolf:
-/aboutSorcerer - Sorcerer :crystal_ball:
-/aboutAlphaWolf - AlphaWolf :zap:
-/aboutWolfCub - WolfCub :dog:
-/aboutLycan - Lycan :wolf::full_moon_with_face:
-/aboutProwler - Prowler 🦉
-/aboutMystic - Mystic ☄
-/aboutTrickster - Trickster :sheep:
+### Borracho :beers:
 
-### Other enemies and roles:
-/aboutTanner - Tanner :japanese_goblin:
-/aboutCult - Cultist :bust_in_silhouette:
-/aboutThief - Thief :smiling_imp:
-/aboutPuppetMaster - Puppet Master 🕴
-/aboutDG - Doppelgänger :performing_arts:
-/aboutSK - Serial Killer :hocho:
+### Vidente :man_with_turban:
 
+### Prostituta  :kiss:
+
+### Observadora  👁
+
+### Justiciero :gun: 
+
+### Ángel de la guarda :angel: 
+
+### Necio :black_joker: 
+
+### Masón :construction_worker:♂ 
+
+### Detective 🕵‍♂ 
+
+### Aprendiz de vidente :bow:♂ 
+
+### Cazadora de cultistas :guardsman:♂ 
+
+### Cupido 🏹 
+
+### Cazador :dart: 
+
+### Torpe 🤕 
+
+### Herrero ⚒ 
+
+### Princesa :crown: 
+
+### Alcalde 🎖 
+
+### Oráculo :cyclone: 
+
+### Monarca :crown:
+Eres el monarca. Eres el señor y amo de la aldea. Durante un día puedes mostrar tu corona para que así tus súbditos estén obligados a colgar en la horca a la persona que tú has elegido, sin importar los votos del resto de jugadores.
+
+### Pacifista ☮ 
+
+### Anciana sabia :books: 
+
+### Arenero :zzz: 
+
+### Guardabosques :person_with_blond_hair:♂:new_moon_with_face: 
+
+### Mártir :beginner:
+Eres el mártir. Has sido enviado para darlo todo por una persona, si muere, llegarás al límite de dar tu vida por ella y salvarla. Eres del equipo de la aldea hasta morir, pero cuando te sacrifiques por alguien, ganarás si sólo si gana.
+
+### Químico :man::microscope: 
+
+### Escudero 🛡
+
+### Bella :nail_care:
+
+
+## ROLES QUE SE CONVIERTEN EN LOBO:
+
+### Traidor 🖕 
+
+### Nino salvaje :baby:
+
+### Maldito :pouting_cat: 
+
+
+## LOBOS Y ALIADOS:
+
+### Hombre lobo :wolf: 
+
+### Bruja :crystal_ball: 
+
+### Lobo alfa :zap: 
+
+### Cachorro de lobo :dog: 
+
+### Licántropo :wolf::full_moon_with_face: 
+
+### Merodeador 🦉
+Eres el merodeador. Eres del equipo de los hombres lobo. Estás aburrido de ver sálvame y te apetece cotillear. Cada noche puedes elegir espíar a una persona a través de su ventana. Si está despierta, lo sabrás. Si esa persona es comida cuando la cotilleas, sabrás los nombres de los lobos.
+
+### Mistica
+Eres la mística, también conocida como la Bruja Lola, aliada de los lobos. Cada noche, puedes hechizar a un jugador. Si los lobos le comen, tienen un 30% de convertirle en lobo. Pero si mueres, el hechizo desaparecerá.
+
+### Lobo estafador :sheep:
+¡Eres el lobo estafador! ¿Recuerdas al lobo escondido bajo la piel de oveja? Puedes revelarte como un rol aleatorio en cualquier momento del juego (alcalde, herrero...). Sin embargo, el mensaje aparecerá, pero el efecto del rol no se aplicará.
+
+
+## OTROS ENEMIGOS Y ROLES
+
+### Veterano
+El objetivo del veterano es sencillo: ser linchado. Si linchan al veterano, gana la partida. Punto. Todos los demás pierden.
+
+### Cultista
+Como cultista, tu objetivo es convertir a todos los demás jugadores (excepto a los hombres lobo) a tu culto. Si al final de la partida todos los jugadores vivos son cultistas, el culto gana.
+
+### Ladron
+¡Eres el ladrón! Te gusta robar las vidas de los demás. Cada noche, puedes robar a alguien. Si tienes suerte, obtendrás su rol y esa persona será el nuevo ladrón.
+
+### Titiritero
+Eres el titiritero. Eres un maestro en manipular y engañar a otras personas. Cada noche, puedes usar tus poderes para hacer que una persona (u equipo) haga lo que tú quieras, hasta ser la última persona viva.
+
+### Doppelgänger - elDoble :performing_arts:
+
+### Asesina en serie :hocho:
+
+ 🕴
