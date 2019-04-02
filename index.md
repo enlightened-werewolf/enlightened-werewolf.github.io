@@ -238,11 +238,9 @@ Como cultista, tu objetivo es convertir a todos los demás jugadores (excepto a 
 ### Ladron
 ¡Eres el ladrón! Te gusta robar las vidas de los demás. Cada noche, puedes robar a alguien. Si tienes suerte, obtendrás su rol y esa persona será el nuevo ladrón.
 
-### Titiritero
+### Titiritero  🕴
 Eres el titiritero. Eres un maestro en manipular y engañar a otras personas. Cada noche, puedes usar tus poderes para hacer que una persona (u equipo) haga lo que tú quieras, hasta ser la última persona viva.
 
 ### Doppelgänger - elDoble :performing_arts:
 
 ### Asesina en serie :hocho:
-
- 🕴
